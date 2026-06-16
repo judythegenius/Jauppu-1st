@@ -1,0 +1,8 @@
+{
+  "name": "자없프",
+  "description": "틀려도 괜찮아, 나만의 영어 하기 (자선감 없는 사람들을 위한 실전 회화 및 성장형 영어 농장)",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
